@@ -84,7 +84,7 @@
         "slugify": "^1.6.6",
         "ts-patch": "^3.2.1",
         "tslib": "^2.3.0",
-        "typeorm": "^0.3.20",
+        "typeorm": "^0.3.26",
         "typescript-transform-paths": "^3.5.0",
         "vuetify": "^3.7.1"
     },
